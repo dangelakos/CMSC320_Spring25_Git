@@ -12,3 +12,7 @@ collected, cleaned and interpreted to train large language models.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the changes from different branches, while rebase changes history to be linear.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to the final project because I enjoy applying what I learn.
